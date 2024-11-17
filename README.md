@@ -6,9 +6,9 @@ But You can also use it to download any images in the and collect the images.
 
 # How To Use It :
 
-Step 1 : Load the Site All Content
+Step 1 : Load Site All Content
 
-Step 2 : Download the Har File of the site 
+Step 2 : Download the Har File of the site in the network tab 
 
 Step 3 :  Install all the library in the requirement.txt (pip install -r requirements.txt)
 
